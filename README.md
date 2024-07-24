@@ -1,6 +1,6 @@
 ![Hongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongyuDu2&count_private=true&show_icons=true&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongyuDu2&repo=github-readme-stats)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongyuDu2&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👋 Hi, I’m Hongyu Du
