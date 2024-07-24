@@ -6,13 +6,17 @@
 - 🌱 I’m currently a third-year PhD student
 - 🕵 My research focus on functional data and image analysis
 
-- ```txt
+<!--START_SECTION:waka-->
+
+```txt
 Python             392 hrs 3 mins  ███████████████████▒░░░░░   76.94 %
 Markdown           27 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 TOML               19 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 Bash               16 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 Other              10 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
+
+<!--END_SECTION:waka-->
 
 <!---
 HongyuDu2/HongyuDu2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
