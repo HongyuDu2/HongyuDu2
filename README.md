@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ocss884&column=7)](https://github.com/ocss884)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ocss884&column=7)]
 
 - 👋 Hi, I’m Hongyu Du
 - 💪 I’m interested in basketball and skiing
