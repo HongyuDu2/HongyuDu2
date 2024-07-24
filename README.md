@@ -1,5 +1,8 @@
 ![Hongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongyuDu2&count_private=true&show_icons=true&theme=dracula)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HongyuDu2&repo=github-readme-stats)]
+
+
 - 👋 Hi, I’m Hongyu Du
 - 💪 I’m interested in basketball and skiing
 - 🌱 I’m currently a third-year PhD student
