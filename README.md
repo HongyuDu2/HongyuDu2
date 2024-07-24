@@ -7,7 +7,7 @@
 - 🕵 My research focuses on functional data and image analysis
 
 <p align="center">
-   <img src="https://github.com/ocss884/ocss884/blob/output/github-snake.svg" alt="snake">
+   <img src="https://github.com/HongyuDu2/HongyuDU2/blob/output/github-snake.svg" alt="snake">
 </p>
 
 <!---
