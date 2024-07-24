@@ -1,4 +1,4 @@
-![Hongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongyuDu2&count_private=true&show_icons=true&theme=radical)
+![Hongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongyuDu2&count_private=true&show_icons=true&theme=dracula)
 
 - 👋 Hi, I’m Hongyu Du
 - 💪 I’m interested in basketball and skiing
