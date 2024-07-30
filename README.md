@@ -1,3 +1,4 @@
+<!---
 #| ![Hongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongyuDu2&count_private=true&show_icons=true&theme=dracula) | 
 #| ------------------------------------------------------------ |
 
@@ -7,6 +8,7 @@
 #- 💪 I’m interested in basketball and skiing
 #- 🌱 I’m currently a third-year PhD student
 #- 🕵 My research focuses on functional data and image analysis
+--->
 
 
 <!---
